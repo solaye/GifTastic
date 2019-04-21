@@ -1,0 +1,40 @@
+body {
+
+    background: url(../images/sitcoms.jpg);
+  
+    
+    
+    }
+
+
+.jumbotron{
+
+background: url(../images/Simpsons.jpg)
+
+
+}
+
+label{
+
+font-display: bolder;
+font-size: 20px;
+
+
+}
+
+h1{
+
+font-size: 40px;
+text-align: center;
+font-display: bolder;
+
+}
+
+#sitcom{
+
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+}
